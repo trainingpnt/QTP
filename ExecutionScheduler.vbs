@@ -1,6 +1,6 @@
 'Execute Test Set-'Training_PNT', 
 
-'QC URL
+'ALM URL
 
 strQCURL= "http://ec2-23-21-149-213.compute-1.amazonaws.com:8080/qcbin"
 
